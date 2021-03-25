@@ -1,0 +1,13 @@
+C:\Users\tommy\source\repos\14b\14b\bin\Debug\netcoreapp3.1\14b.exe
+C:\Users\tommy\source\repos\14b\14b\bin\Debug\netcoreapp3.1\14b.deps.json
+C:\Users\tommy\source\repos\14b\14b\bin\Debug\netcoreapp3.1\14b.runtimeconfig.json
+C:\Users\tommy\source\repos\14b\14b\bin\Debug\netcoreapp3.1\14b.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\14b\14b\bin\Debug\netcoreapp3.1\14b.dll
+C:\Users\tommy\source\repos\14b\14b\bin\Debug\netcoreapp3.1\14b.pdb
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.AssemblyInfo.cs
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.dll
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.pdb
+C:\Users\tommy\source\repos\14b\14b\obj\Debug\netcoreapp3.1\14b.genruntimeconfig.cache
